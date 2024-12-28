@@ -1,0 +1,6 @@
+streamlit
+happytransformer
+transformers
+torch
+sentencepiece
+PyPDF2
