@@ -1,6 +1,6 @@
 # WordSmith 🛠️
 
-**WordSmith** is an AI-powered tool designed for efficient text processing. It provides features like text summarization, grammar correction, and spelling enhancement in an easy-to-use interface. Built using state-of-the-art machine learning models and frameworks, ideal for students, researchers, and professionals looking to streamline their textual workflows.
+**WordSmith** is an AI-powered tool designed for efficient text processing. It provides features like text summarization, grammar correction, and spelling enhancement in an easy-to-use interface. Built using state-of-the-art machine learning models and frameworks,like Streamlit, Hugging Face Transformers, and Python.
 
 
 ## **Features**
