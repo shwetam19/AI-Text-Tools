@@ -17,4 +17,4 @@ WordSmith leverages the power of modern Python libraries:
 
 
 ## Deployment 🚀
-Deployed live on [Streamlit Cloud](https://your-app-link.streamlit.app).
+Deployed live on [Streamlit Cloud](https://ai-text-tools-wordsmith.streamlit.app/).
