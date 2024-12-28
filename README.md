@@ -1,6 +1,6 @@
 # WordSmith 🛠️
 
-**WordSmith** is an AI-powered tool designed for efficient text processing. It provides features like text summarization, grammar correction, and spelling enhancement in an easy-to-use interface. Built using state-of-the-art machine learning models and frameworks,like Streamlit, Hugging Face Transformers, and Python.
+**WordSmith** is an AI-powered tool designed for efficient text processing. It provides features like text summarization & grammar correction in an easy-to-use interface. Built using state-of-the-art machine learning models and frameworks,like Streamlit, Hugging Face Transformers, and Python.
 
 
 ## **Features**
@@ -18,3 +18,12 @@ WordSmith leverages the power of modern Python libraries:
 
 ## Deployment 🚀
 Deployed live on [Streamlit Cloud](https://ai-text-tools-wordsmith.streamlit.app/).
+
+## Future Plans
+Upcoming additions include:
+
+- 🌀 **Paraphrasing Tool**: Rewrite sentences or paragraphs while maintaining the original meaning.
+- 🔤 **Enhanced Spelling Corrector**: A dedicated spelling correction tool leveraging advanced AI models for improved accuracy.
+- 🎨 **Tone Adjustment**: Easily shift between formal and casual writing styles to suit your needs.
+
+
