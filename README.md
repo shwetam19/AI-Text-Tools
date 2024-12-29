@@ -8,7 +8,7 @@
 - ✍️ **Grammar Correction**: Fix grammar issues in sentences using AI.
 
 ## **Interface**
-The results are uploaded in the scrrenshots folder.
+The results are uploaded in the screenshots folder.
 ![WordSmith UI](https://github.com/user-attachments/assets/e38f5e2a-d2d4-43de-9712-f8866b1f01c9)
 
 ## **Libraries Used**
