@@ -7,6 +7,8 @@
 - 📄 **Summarization**: Extract concise summaries from text or PDF files.
 - ✍️ **Grammar Correction**: Fix grammar issues in sentences using AI.
 
+## **UI**
+![WordSmith UI](https://github.com/user-attachments/assets/e38f5e2a-d2d4-43de-9712-f8866b1f01c9)
 
 ## **Libraries Used**
 WordSmith leverages the power of modern Python libraries:
