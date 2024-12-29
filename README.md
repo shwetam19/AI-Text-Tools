@@ -16,9 +16,6 @@ WordSmith leverages the power of modern Python libraries:
 - **[PyPDF2](https://pypdf2.readthedocs.io/)**: For extracting text from PDF files.
 
 
-## Deployment 🚀
-Deployed live on [Streamlit Cloud](https://ai-text-tools-wordsmith.streamlit.app/).
-
 ## Future Plans
 Upcoming additions include:
 
